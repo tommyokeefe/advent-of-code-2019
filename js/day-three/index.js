@@ -1,4 +1,3 @@
-
 const getCoordinates = trip => {
     const coordinates = [];
     let last = { x: 0, y: 0, steps: 0 };
